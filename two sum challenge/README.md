@@ -1,4 +1,4 @@
-# Two Sum Challenge
+# Two Sum (Array search)
 
 ## PROBLEM
 
