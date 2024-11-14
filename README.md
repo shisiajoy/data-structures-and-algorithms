@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) Challenges Repository
+# Data Structures and Algorithms (DSA) 
 
 ## Description
 
